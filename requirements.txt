@@ -1,0 +1,6 @@
+python
+requests
+colorama
+termux-api
+git
+pip
