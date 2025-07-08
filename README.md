@@ -1,6 +1,6 @@
-# QuaGsmSorgu TOOL
+# ⚙️ QuaGsmSorgu TOOL
 
-## TERMUX KURULUM:
+## 📱 TERMUX KURULUM:
 ```
 pkg install python
 ```
@@ -21,3 +21,6 @@ cd QuaGsmSorgu
 ```
 ```
 python QuaGsm.py
+```
+## ❗TOOL HAKKINDA:
+PİYASADAKİ EN İYİ GSM (TELEFON NUMARASI) SORGULAMA ARACI
